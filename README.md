@@ -126,9 +126,7 @@ Number of Wrong Answers: 2
 ## 👨‍💻 Author
 
 **Mohamed Mohsen**
-💻 Computer Science Student
-|🚀 Aspiring Backend Developer
-
+💻 Computer Science Student | 🚀 Aspiring Backend Developer
 ---
 
 ## ⭐ Support
