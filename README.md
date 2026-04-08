@@ -29,40 +29,14 @@ Right Answer :-)
 
 ---
 
-## ✨ Key Features
+## ✨ Features
 
-* 🔢 **Dynamic Question Generation**
-
-  * Random numbers based on difficulty level
-
-* 🎚️ **Multiple Difficulty Levels**
-
-  * Easy → Small numbers
-  * Medium → Moderate numbers
-  * Hard → Large numbers
-  * Mix → Randomized difficulty
-
-* ➗ **Flexible Operations**
-
-  * Addition (+)
-  * Subtraction (-)
-  * Multiplication (*)
-  * Division (/)
-  * Mixed Mode
-
-* 🎨 **Real-time Feedback**
-
-  * Instant validation of answers
-  * Colored console output (Win / Lose)
-
-* 📊 **Performance Tracking**
-
-  * Number of correct & wrong answers
-  * Final result (Pass / Fail)
-
-* 🔁 **Replay System**
-
-  * Restart the game without exiting
+* 🔢 Dynamic question generation based on difficulty level
+* 🎚️ Multiple difficulty modes: Easy, Medium, Hard, Mix
+* ➗ Supports operations: +, -, *, /, Mixed
+* 🎨 Instant feedback after each answer
+* 📊 Final performance summary (Pass / Fail)
+* 🔁 Replay option without restarting the program
 
 ---
 
@@ -125,7 +99,7 @@ g++ main.cpp -o math_quiz
 
 ---
 
-## 📊 Sample Result
+## 📊 Sample Output
 
 ```
 Final Results is PASS :-)
@@ -139,7 +113,7 @@ Number of Wrong Answers: 2
 
 ---
 
-## 🚀 Future Enhancements
+## 🚀 Future Improvements
 
 * ⏱️ Add timer per question
 * 🏆 High score system
